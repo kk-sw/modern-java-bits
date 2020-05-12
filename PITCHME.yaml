@@ -1,0 +1,16 @@
+#
+# https://gitpitch.com/docs/themes/demos/
+#
+
+theme            : template
+theme-background : [ "white" ]
+# h1,h2:
+theme-headline   : [ "Raleway", "black", "none" ]
+## theme-byline     : [ "Concert One", "black", "none" ]
+theme-byline     : [ "Bubblegum", "black", "none" ]
+
+
+layout : top-left
+footnote : "Modern Java Bits - 2020"
+
+published : false
